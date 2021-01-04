@@ -44,7 +44,7 @@ This rewards program will last for 1 year, starting from December 2020.
 
 ### How do I get more information about technical details of Tadpole Finance?
 
-Check our [GitHub repositories](https://github.com/tadpole-finance) and [this documentation portal](/docs). We will keep adding more technical documentations from time to time.
+Check our [GitHub repositories](https://github.com/tadpole-finance) and [this documentation portal](https://doc.tadpole.finance/). We will keep adding more technical documentations from time to time.
 
 ### How do I ask if I have some questions regarding this program?
 
