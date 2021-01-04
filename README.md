@@ -3,17 +3,17 @@
 Earn TAD token by contributing Tadpole Finance development
 
 
-#### What is Developer Rewards program?
+### What is Developer Rewards program?
 
 Tadpole Finance is managed as an open source project. We invite all developers to participate in developing this project. As the reward, 10% of the TAD supply (Tadpole Finance platform token) will be distributed to developers who contribute to the Tadpole Finance codebase.
 
-#### How do I participate in Developer Rewards Program?
+### How do I participate in Developer Rewards Program?
 
 Participating this program is very easy. You can find issues you want to resolve and features you want to develop through official Github and roadmap. You can participate in all repositories, both smart contracts, frontend, and other supporting infrastructure.
 
 To get started, please fork the repository at https://github.com/Tadpole-finance to your personal Github account. And after developing an issue or a feature, feel free to make a pull request to the main repositories. Your pull request will go through the review stage. And if the code review passes, your code will be merged and you are entitled to a reward.
 
-#### How are the rewards calculated?
+### How are the rewards calculated?
 
 The distribution of rewards will be measured based on a score that represents the level of difficulty and the significance of your contribution to the Tadpole Finance ecosystem. Score is defined as follows:
 
@@ -36,15 +36,15 @@ For example, user1 made a pull request "Fix typo in documentation, TOD to TAD" a
 
 1/97 * 8333 = 85.90 TAD
 
-After the calculation is finished, user1 will get 85.90 TAD in his Ethereum wallet.
+After the calculation is finished, user1 will get 85.90 TAD in his Ethereum wallet. The reward will be distributed around the 10th of each month.
 
-#### How long will Developer Rewards program be held?
+### How long will Developer Rewards program be held?
 
 This rewards program will last for 1 year, starting from December 2020.
 
-#### How do I get more information about technical details of Tadpole Finance?
+### How do I get more information about technical details of Tadpole Finance?
 
-You can check our [GitHub repositories](https://github.com/tadpole-finance). We will add more techincal documentations from time to time.
+Check our [GitHub repositories](https://github.com/tadpole-finance) and [this documentation portal](/docs). We will keep adding more technical documentations from time to time.
 
 ### How do I ask if I have some questions regarding this program?
 
